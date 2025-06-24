@@ -35,7 +35,7 @@ This bash script automates the installation of Realtek wireless drivers for the 
 1. Download the script or copy its content into a file.
 2. Clone the repository:
     ```bash
-    git clone https://github.com/Khatcode/AWUS036ACH-Automated-Driver-Install
+    git clone https://github.com/CyberDoug/AWUS036ACH-Automated-Driver-Install
     cd AWUS036ACH-Automated-Driver-Install
     ```
 3. Make the script executable:
@@ -48,7 +48,7 @@ This bash script automates the installation of Realtek wireless drivers for the 
     ```
    or combine the commands:
     ```bash
-    git clone https://github.com/Khatcode/AWUS036ACH-Automated-Driver-Install && cd AWUS036ACH-Automated-Driver-Install && chmod +x Alfasetup.sh && sudo ./Alfasetup.sh
+    git clone https://github.com/CyberDoug/AWUS036ACH-Automated-Driver-Install && cd AWUS036ACH-Automated-Driver-Install && chmod +x Alfasetup.sh && sudo ./Alfasetup.sh
     ```
 
 ## Script Steps
